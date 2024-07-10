@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibrah\\Desktop\\ASP.NET CORE 5.0 MVC PROJE KAMPI\\CoreDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\CoreDemo.csproj|c:\\users\\ibrah\\desktop\\asp.net core 5.0 mvc proje kampi\\coredemo\\coredemo\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\CoreDemo.csproj|c:\\users\\ibrah\\desktop\\asp.net core 5.0 mvc proje kampi\\coredemo\\coredemo\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DB0D76-26AC-400A-A934-91E6E657BAB0}|EntityLayer\\EntityLayer.csproj|c:\\users\\ibrah\\desktop\\asp.net core 5.0 mvc proje kampi\\coredemo\\entitylayer\\concrete\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DB0D76-26AC-400A-A934-91E6E657BAB0}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\ASP.NET CORE 5.0 MVC PROJE KAMPI\\CoreDemo\\EntityLayer\\Concrete\\Blog.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Concrete\\Blog.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\ASP.NET CORE 5.0 MVC PROJE KAMPI\\CoreDemo\\EntityLayer\\Concrete\\Blog.cs",
+              "RelativeToolTip": "EntityLayer\\Concrete\\Blog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T12:00:44.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\ASP.NET CORE 5.0 MVC PROJE KAMPI\\CoreDemo\\CoreDemo\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\ASP.NET CORE 5.0 MVC PROJE KAMPI\\CoreDemo\\CoreDemo\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "CoreDemo\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T11:59:13.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\ASP.NET CORE 5.0 MVC PROJE KAMPI\\CoreDemo\\CoreDemo\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "CoreDemo\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\ASP.NET CORE 5.0 MVC PROJE KAMPI\\CoreDemo\\CoreDemo\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "CoreDemo\\Controllers\\BlogController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T11:59:01.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
