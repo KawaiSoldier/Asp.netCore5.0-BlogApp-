@@ -1,19 +1,9 @@
 ﻿@using EntityLayer.Concrete
- @model List<Writer>
+ 
 
 
 <div class="col-md-4 top-forms text-center mt-lg-3 mt-md-1 mt-0">
-    @if (Model != null && Model.Count > 0)
-    {
-        foreach (var item in Model)
-        {
-            <span>Hoş Geldiniz @item.WriterName !</span>
-        }
-    }
-    else
-    {
-        <span>Hoş Geldiniz!</span>
-    }
+   
    
     <span class="mx-lg-4 mx-md-2  mx-1">
         <a href="login.html">

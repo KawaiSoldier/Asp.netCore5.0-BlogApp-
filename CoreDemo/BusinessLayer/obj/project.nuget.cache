@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/eDM3PlDQMQ=",
+  "dgSpecHash": "bpxN5tgVWek=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ibrah\\Desktop\\ASP.NET CORE 5.0 MVC PROJE KAMPI\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj",
+  "projectFilePath": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ibrah\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\ibrah\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

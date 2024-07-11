@@ -7522,11 +7522,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ibrah\\Desktop\\ASP.NET CORE 5.0 MVC PROJE KAMPI\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
+      "projectUniqueName": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
       "projectName": "CoreDemo",
-      "projectPath": "C:\\Users\\ibrah\\Desktop\\ASP.NET CORE 5.0 MVC PROJE KAMPI\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
+      "projectPath": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
       "packagesPath": "C:\\Users\\ibrah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ibrah\\Desktop\\ASP.NET CORE 5.0 MVC PROJE KAMPI\\CoreDemo\\CoreDemo\\obj\\",
+      "outputPath": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ibrah\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7544,14 +7544,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\ibrah\\Desktop\\ASP.NET CORE 5.0 MVC PROJE KAMPI\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj": {
-              "projectPath": "C:\\Users\\ibrah\\Desktop\\ASP.NET CORE 5.0 MVC PROJE KAMPI\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj"
+            "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj"
             },
-            "C:\\Users\\ibrah\\Desktop\\ASP.NET CORE 5.0 MVC PROJE KAMPI\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\ibrah\\Desktop\\ASP.NET CORE 5.0 MVC PROJE KAMPI\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj"
+            "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj"
             },
-            "C:\\Users\\ibrah\\Desktop\\ASP.NET CORE 5.0 MVC PROJE KAMPI\\CoreDemo\\EntityLayer\\EntityLayer.csproj": {
-              "projectPath": "C:\\Users\\ibrah\\Desktop\\ASP.NET CORE 5.0 MVC PROJE KAMPI\\CoreDemo\\EntityLayer\\EntityLayer.csproj"
+            "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\EntityLayer\\EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\EntityLayer\\EntityLayer.csproj"
             }
           }
         }

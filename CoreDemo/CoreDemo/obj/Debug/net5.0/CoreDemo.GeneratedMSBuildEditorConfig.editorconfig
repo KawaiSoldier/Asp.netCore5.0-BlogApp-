@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CoreDemo
-build_property.ProjectDir = C:\Users\ibrah\Desktop\ASP.NET CORE 5.0 MVC PROJE KAMPI\CoreDemo\CoreDemo\
+build_property.ProjectDir = C:\Users\ibrah\Desktop\Asp.netCore5.0-BlogApp-\CoreDemo\CoreDemo\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aWTk0TVOlPs=",
+  "dgSpecHash": "+rr7HVPW6lY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ibrah\\Desktop\\ASP.NET CORE 5.0 MVC PROJE KAMPI\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj",
+  "projectFilePath": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ibrah\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ibrah\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -9,11 +9,11 @@ namespace BusinessLayer.Abstract
 {
     public interface IBlogService
     {
-      
+       List<Blog> GetList();
+        Blog GetById(int id);
         void BlogAdd(Blog blog);
         void BlogUpdate(Blog blog);
         void BlogDelete(Blog blog);
-        List<Blog> GetList();
-        Blog GetById(int id);
+       
     }
 }

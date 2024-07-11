@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ibrah\\Desktop\\ASP.NET CORE 5.0 MVC PROJE KAMPI\\CoreDemo\\CoreLayer\\CoreLayer.csproj",
+      "projectUniqueName": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreLayer\\CoreLayer.csproj",
       "projectName": "CoreLayer",
-      "projectPath": "C:\\Users\\ibrah\\Desktop\\ASP.NET CORE 5.0 MVC PROJE KAMPI\\CoreDemo\\CoreLayer\\CoreLayer.csproj",
+      "projectPath": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreLayer\\CoreLayer.csproj",
       "packagesPath": "C:\\Users\\ibrah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ibrah\\Desktop\\ASP.NET CORE 5.0 MVC PROJE KAMPI\\CoreDemo\\CoreLayer\\obj\\",
+      "outputPath": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ibrah\\AppData\\Roaming\\NuGet\\NuGet.Config",

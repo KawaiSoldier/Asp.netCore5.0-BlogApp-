@@ -16,3 +16,22 @@ C:\Users\ibrah\Desktop\ASP.NET CORE 5.0 MVC PROJE KAMPI\CoreDemo\DataAccessLayer
 C:\Users\ibrah\Desktop\ASP.NET CORE 5.0 MVC PROJE KAMPI\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
 C:\Users\ibrah\Desktop\ASP.NET CORE 5.0 MVC PROJE KAMPI\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
 C:\Users\ibrah\Desktop\ASP.NET CORE 5.0 MVC PROJE KAMPI\CoreDemo\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\ibrah\Desktop\Asp.netCore5.0-BlogApp-\CoreDemo\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\ibrah\Desktop\Asp.netCore5.0-BlogApp-\CoreDemo\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+C:\Users\ibrah\Desktop\Asp.netCore5.0-BlogApp-\CoreDemo\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\ibrah\Desktop\Asp.netCore5.0-BlogApp-\CoreDemo\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\ibrah\Desktop\Asp.netCore5.0-BlogApp-\CoreDemo\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\ibrah\Desktop\Asp.netCore5.0-BlogApp-\CoreDemo\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\ibrah\Desktop\Asp.netCore5.0-BlogApp-\CoreDemo\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\ibrah\Desktop\Asp.netCore5.0-BlogApp-\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ibrah\Desktop\Asp.netCore5.0-BlogApp-\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\Desktop\Asp.netCore5.0-BlogApp-\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\ibrah\Desktop\Asp.netCore5.0-BlogApp-\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\ibrah\Desktop\Asp.netCore5.0-BlogApp-\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\Asp.netCore5.0-BlogApp-\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.sourcelink.json
+C:\Users\ibrah\Desktop\Asp.netCore5.0-BlogApp-\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAcce.E67BD773.Up2Date
+C:\Users\ibrah\Desktop\Asp.netCore5.0-BlogApp-\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\ibrah\Desktop\Asp.netCore5.0-BlogApp-\CoreDemo\DataAccessLayer\obj\Debug\net5.0\refint\DataAccessLayer.dll
+C:\Users\ibrah\Desktop\Asp.netCore5.0-BlogApp-\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\ibrah\Desktop\Asp.netCore5.0-BlogApp-\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\ibrah\Desktop\Asp.netCore5.0-BlogApp-\CoreDemo\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
