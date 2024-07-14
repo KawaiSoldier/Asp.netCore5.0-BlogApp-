@@ -10,8 +10,12 @@ namespace CoreDemo.Controllers
 
         public IActionResult Index()
         {
-            var blogValues = bm.GetList();
+            var blogValues = bm.GetBlogListWithCategory();
             return View(blogValues);
+        }
+        public IActionResult BlogDetails(int id)
+        {
+           return View();
         }
     }
 }
