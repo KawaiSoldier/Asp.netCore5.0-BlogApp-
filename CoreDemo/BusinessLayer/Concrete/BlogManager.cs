@@ -21,30 +21,31 @@ namespace BusinessLayer.Concrete
         public void BlogAdd(Blog blog)
         {
             _blogDal.Insert(blog);
-            
-
         }
 
         public void BlogDelete(Blog blog)
         {
-           _blogDal.Delete(blog);
+            _blogDal.Delete(blog);
         }
 
         public void BlogUpdate(Blog blog)
         {
-            
             _blogDal.Update(blog);
         }
 
         public List<Blog> GetBlogListWithCategory()
         {
-           return _blogDal.GetBlogListWithCategory();
+            return _blogDal.GetBlogListWithCategory();
         }
+        
 
         public Blog GetById(int id)
         {
-            
             return _blogDal.GetById(id);
+        }
+        public List<Blog> GetBlogByID(int id)
+        {
+            return _blogDal.GetListAll(x => x.BlogID == id);
         }
 
         public List<Blog> GetList()

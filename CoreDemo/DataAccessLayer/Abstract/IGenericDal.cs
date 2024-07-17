@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -17,7 +18,7 @@ namespace DataAccessLayer.Abstract
         void Update(T entity);
         void Delete(T entity);
 
-
+        List <T> GetListAll(Expression<Func<T,bool>>filter); //filtreleme yapmak için kullanılır 
 
 
     }

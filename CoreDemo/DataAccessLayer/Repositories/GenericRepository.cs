@@ -1,8 +1,10 @@
 ﻿using DataAccessLayer.Abstract;
 using DataAccessLayer.Concrete;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -41,8 +43,15 @@ namespace DataAccessLayer.Repositories
         }
 
         public void Insert(T entity)
+		{
+
+			c.Add(entity);
+			c.SaveChanges();
+		}
+
+        public List<T> GetListAll(Expression<Func<T, bool>> filter)
         {
-            throw new NotImplementedException();
+            return c.Set<T>().Where(filter).ToList(); // Filtreleme yapmak için kullanılır
         }
     }
 }
