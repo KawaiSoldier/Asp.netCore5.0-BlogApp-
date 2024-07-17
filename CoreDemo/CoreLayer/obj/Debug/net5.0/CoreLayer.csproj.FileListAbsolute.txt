@@ -9,3 +9,15 @@ C:\Users\ibrah\Desktop\ASP.NET CORE 5.0 MVC PROJE KAMPI\CoreDemo\CoreLayer\obj\D
 C:\Users\ibrah\Desktop\ASP.NET CORE 5.0 MVC PROJE KAMPI\CoreDemo\CoreLayer\obj\Debug\net5.0\refint\CoreLayer.dll
 C:\Users\ibrah\Desktop\ASP.NET CORE 5.0 MVC PROJE KAMPI\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.pdb
 C:\Users\ibrah\Desktop\ASP.NET CORE 5.0 MVC PROJE KAMPI\CoreDemo\CoreLayer\obj\Debug\net5.0\ref\CoreLayer.dll
+C:\Users\ibrah\Desktop\Asp.netCore5.0-BlogApp-\CoreDemo\CoreLayer\bin\Debug\net5.0\CoreLayer.deps.json
+C:\Users\ibrah\Desktop\Asp.netCore5.0-BlogApp-\CoreDemo\CoreLayer\bin\Debug\net5.0\CoreLayer.dll
+C:\Users\ibrah\Desktop\Asp.netCore5.0-BlogApp-\CoreDemo\CoreLayer\bin\Debug\net5.0\CoreLayer.pdb
+C:\Users\ibrah\Desktop\Asp.netCore5.0-BlogApp-\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\Desktop\Asp.netCore5.0-BlogApp-\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.AssemblyInfoInputs.cache
+C:\Users\ibrah\Desktop\Asp.netCore5.0-BlogApp-\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.AssemblyInfo.cs
+C:\Users\ibrah\Desktop\Asp.netCore5.0-BlogApp-\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\Asp.netCore5.0-BlogApp-\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.sourcelink.json
+C:\Users\ibrah\Desktop\Asp.netCore5.0-BlogApp-\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.dll
+C:\Users\ibrah\Desktop\Asp.netCore5.0-BlogApp-\CoreDemo\CoreLayer\obj\Debug\net5.0\refint\CoreLayer.dll
+C:\Users\ibrah\Desktop\Asp.netCore5.0-BlogApp-\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.pdb
+C:\Users\ibrah\Desktop\Asp.netCore5.0-BlogApp-\CoreDemo\CoreLayer\obj\Debug\net5.0\ref\CoreLayer.dll
