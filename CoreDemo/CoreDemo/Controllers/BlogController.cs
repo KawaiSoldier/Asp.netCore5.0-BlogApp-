@@ -7,6 +7,7 @@ namespace CoreDemo.Controllers
     public class BlogController : Controller
     {
         BlogManager bm = new BlogManager(new EfBlogRepository());
+        NewsLetterManager nm = new NewsLetterManager(new EfNewsLetterRepository());
 
         public IActionResult Index()
         {

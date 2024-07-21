@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\CoreDemo.csproj|c:\\users\\ibrah\\desktop\\asp.netcore5.0-blogapp-\\coredemo\\coredemo\\views\\shared\\components\\writerslatest\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\views\\shared\\components\\writerslatest\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\CoreDemo.csproj|c:\\users\\ibrah\\desktop\\asp.netcore5.0-blogapp-\\coredemo\\coredemo\\views\\shared\\userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\views\\shared\\userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47DB0D76-26AC-400A-A934-91E6E657BAB0}|EntityLayer\\EntityLayer.csproj|c:\\users\\ibrah\\desktop\\asp.netcore5.0-blogapp-\\coredemo\\entitylayer\\concrete\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47DB0D76-26AC-400A-A934-91E6E657BAB0}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\CoreDemo.csproj|c:\\users\\ibrah\\desktop\\asp.netcore5.0-blogapp-\\coredemo\\coredemo\\views\\shared\\partialheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\views\\shared\\partialheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\CoreDemo.csproj|c:\\users\\ibrah\\desktop\\asp.netcore5.0-blogapp-\\coredemo\\coredemo\\viewcomponents\\blog\\writerslatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\viewcomponents\\blog\\writerslatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\CoreDemo.csproj|c:\\users\\ibrah\\desktop\\asp.netcore5.0-blogapp-\\coredemo\\coredemo\\views\\shared\\welcomebackpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\views\\shared\\welcomebackpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\CoreDemo.csproj|c:\\users\\ibrah\\desktop\\asp.netcore5.0-blogapp-\\coredemo\\coredemo\\views\\blog\\blogreadall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\views\\blog\\blogreadall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\CoreDemo.csproj|c:\\users\\ibrah\\desktop\\asp.netcore5.0-blogapp-\\coredemo\\coredemo\\views\\shared\\footerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\views\\shared\\footerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\CoreDemo.csproj|c:\\users\\ibrah\\desktop\\asp.netcore5.0-blogapp-\\coredemo\\coredemo\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\CoreDemo.csproj|c:\\users\\ibrah\\desktop\\asp.netcore5.0-blogapp-\\coredemo\\coredemo\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E9874D-5204-4A28-B91B-528615927BD1}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\ibrah\\desktop\\asp.netcore5.0-blogapp-\\coredemo\\businesslayer\\concrete\\contactmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E9874D-5204-4A28-B91B-528615927BD1}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\concrete\\contactmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\CoreDemo.csproj|c:\\users\\ibrah\\desktop\\asp.netcore5.0-blogapp-\\coredemo\\coredemo\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E9874D-5204-4A28-B91B-528615927BD1}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\ibrah\\desktop\\asp.netcore5.0-blogapp-\\coredemo\\businesslayer\\abstract\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E9874D-5204-4A28-B91B-528615927BD1}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\abstract\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,68 +42,111 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Blog.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\EntityLayer\\Concrete\\Blog.cs",
-              "RelativeDocumentMoniker": "EntityLayer\\Concrete\\Blog.cs",
-              "ToolTip": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\EntityLayer\\Concrete\\Blog.cs",
-              "RelativeToolTip": "EntityLayer\\Concrete\\Blog.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBIAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T13:19:19.167Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\Views\\Shared\\Components\\WritersLatest\\Default.cshtml",
-              "RelativeDocumentMoniker": "CoreDemo\\Views\\Shared\\Components\\WritersLatest\\Default.cshtml",
-              "ToolTip": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\Views\\Shared\\Components\\WritersLatest\\Default.cshtml",
-              "RelativeToolTip": "CoreDemo\\Views\\Shared\\Components\\WritersLatest\\Default.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Title": "UserLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\Views\\Shared\\UserLayout.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Views\\Shared\\UserLayout.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\Views\\Shared\\UserLayout.cshtml",
+              "RelativeToolTip": "CoreDemo\\Views\\Shared\\UserLayout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-17T12:23:53.879Z",
+              "WhenOpened": "2024-07-21T14:10:06.685Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "WritersLatest.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\ViewComponents\\Blog\\WritersLatest.cs",
-              "RelativeDocumentMoniker": "CoreDemo\\ViewComponents\\Blog\\WritersLatest.cs",
-              "ToolTip": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\ViewComponents\\Blog\\WritersLatest.cs",
-              "RelativeToolTip": "CoreDemo\\ViewComponents\\Blog\\WritersLatest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T10:55:38.717Z"
+              "Title": "WelcomeBackPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\Views\\Shared\\WelcomeBackPartial.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Views\\Shared\\WelcomeBackPartial.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\Views\\Shared\\WelcomeBackPartial.cshtml",
+              "RelativeToolTip": "CoreDemo\\Views\\Shared\\WelcomeBackPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T14:09:30.978Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BlogReadAll.cshtml",
-              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\Views\\Blog\\BlogReadAll.cshtml",
-              "RelativeDocumentMoniker": "CoreDemo\\Views\\Blog\\BlogReadAll.cshtml",
-              "ToolTip": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\Views\\Blog\\BlogReadAll.cshtml",
-              "RelativeToolTip": "CoreDemo\\Views\\Blog\\BlogReadAll.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACIAAABoAAAA",
+              "Title": "FooterPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\Views\\Shared\\FooterPartial.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Views\\Shared\\FooterPartial.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\Views\\Shared\\FooterPartial.cshtml",
+              "RelativeToolTip": "CoreDemo\\Views\\Shared\\FooterPartial.cshtml",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAEwAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-17T10:52:56.685Z"
+              "WhenOpened": "2024-07-21T14:03:54.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PartialHeader.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\Views\\Shared\\PartialHeader.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Views\\Shared\\PartialHeader.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\Views\\Shared\\PartialHeader.cshtml",
+              "RelativeToolTip": "CoreDemo\\Views\\Shared\\PartialHeader.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T13:27:05.347Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "BlogController.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\Controllers\\BlogController.cs",
-              "RelativeDocumentMoniker": "CoreDemo\\Controllers\\BlogController.cs",
-              "ToolTip": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\Controllers\\BlogController.cs",
-              "RelativeToolTip": "CoreDemo\\Controllers\\BlogController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "CoreDemo\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAAGkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T12:13:59.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactManager.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\BusinessLayer\\Concrete\\ContactManager.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Concrete\\ContactManager.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\BusinessLayer\\Concrete\\ContactManager.cs",
+              "RelativeToolTip": "BusinessLayer\\Concrete\\ContactManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T10:52:25.832Z"
+              "WhenOpened": "2024-07-21T11:13:17.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IContactService.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\BusinessLayer\\Abstract\\IContactService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Abstract\\IContactService.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\BusinessLayer\\Abstract\\IContactService.cs",
+              "RelativeToolTip": "BusinessLayer\\Abstract\\IContactService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T11:12:30.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "CoreDemo\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "CoreDemo\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T10:52:36.123Z",
+              "EditorCaption": ""
             }
           ]
         }
