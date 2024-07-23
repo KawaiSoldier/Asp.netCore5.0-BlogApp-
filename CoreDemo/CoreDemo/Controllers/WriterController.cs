@@ -38,6 +38,12 @@ namespace CoreDemo.Controllers
             return PartialView();
         }
 
+        [AllowAnonymous]
+        public PartialViewResult WriterHeaderPartial()
+        {
+            return PartialView();
+        }
+
 
     }
 }
