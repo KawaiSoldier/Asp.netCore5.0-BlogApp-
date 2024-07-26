@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\CoreDemo.csproj|c:\\users\\ibrah\\desktop\\asp.netcore5.0-blogapp-\\coredemo\\coredemo\\views\\shared\\components\\writernotification\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\views\\shared\\components\\writernotification\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{60576C49-29D5-4749-B898-B1B40AFBB768}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\ibrah\\desktop\\asp.netcore5.0-blogapp-\\coredemo\\dataaccesslayer\\concrete\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60576C49-29D5-4749-B898-B1B40AFBB768}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\concrete\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\CoreDemo.csproj|c:\\users\\ibrah\\desktop\\asp.netcore5.0-blogapp-\\coredemo\\coredemo\\viewcomponents\\writer\\writernotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\viewcomponents\\writer\\writernotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60576C49-29D5-4749-B898-B1B40AFBB768}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\ibrah\\desktop\\asp.netcore5.0-blogapp-\\coredemo\\dataaccesslayer\\migrations\\20240726172841_mig_blograyting_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60576C49-29D5-4749-B898-B1B40AFBB768}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\migrations\\20240726172841_mig_blograyting_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\CoreDemo.csproj|c:\\users\\ibrah\\desktop\\asp.netcore5.0-blogapp-\\coredemo\\coredemo\\views\\writer\\writerheaderpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\views\\writer\\writerheaderpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{47DB0D76-26AC-400A-A934-91E6E657BAB0}|EntityLayer\\EntityLayer.csproj|c:\\users\\ibrah\\desktop\\asp.netcore5.0-blogapp-\\coredemo\\entitylayer\\concrete\\blograyting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DB0D76-26AC-400A-A934-91E6E657BAB0}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\blograyting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\CoreDemo.csproj|c:\\users\\ibrah\\desktop\\asp.netcore5.0-blogapp-\\coredemo\\coredemo\\views\\writer\\writerfooterpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\views\\writer\\writerfooterpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\CoreDemo.csproj|c:\\users\\ibrah\\desktop\\asp.netcore5.0-blogapp-\\coredemo\\coredemo\\viewcomponents\\writer\\writermessagenotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\viewcomponents\\writer\\writermessagenotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\CoreDemo.csproj|c:\\users\\ibrah\\desktop\\asp.netcore5.0-blogapp-\\coredemo\\coredemo\\views\\shared\\writerlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\views\\shared\\writerlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\CoreDemo.csproj|c:\\users\\ibrah\\desktop\\asp.netcore5.0-blogapp-\\coredemo\\coredemo\\controllers\\writercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\controllers\\writercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{47DB0D76-26AC-400A-A934-91E6E657BAB0}|EntityLayer\\EntityLayer.csproj|c:\\users\\ibrah\\desktop\\asp.netcore5.0-blogapp-\\coredemo\\entitylayer\\concrete\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DB0D76-26AC-400A-A934-91E6E657BAB0}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\Views\\Shared\\Components\\WriterNotification\\Default.cshtml",
-              "RelativeDocumentMoniker": "CoreDemo\\Views\\Shared\\Components\\WriterNotification\\Default.cshtml",
-              "ToolTip": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\Views\\Shared\\Components\\WriterNotification\\Default.cshtml",
-              "RelativeToolTip": "CoreDemo\\Views\\Shared\\Components\\WriterNotification\\Default.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-23T16:37:04.002Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "WriterNotification.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\ViewComponents\\Writer\\WriterNotification.cs",
-              "RelativeDocumentMoniker": "CoreDemo\\ViewComponents\\Writer\\WriterNotification.cs",
-              "ToolTip": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\ViewComponents\\Writer\\WriterNotification.cs",
-              "RelativeToolTip": "CoreDemo\\ViewComponents\\Writer\\WriterNotification.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Title": "20240726172841_mig_BlogRayting_Table.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\DataAccessLayer\\Migrations\\20240726172841_mig_BlogRayting_Table.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\20240726172841_mig_BlogRayting_Table.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\DataAccessLayer\\Migrations\\20240726172841_mig_BlogRayting_Table.cs",
+              "RelativeToolTip": "DataAccessLayer\\Migrations\\20240726172841_mig_BlogRayting_Table.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T16:35:12.371Z",
+              "WhenOpened": "2024-07-26T17:28:41.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WriterMessageNotification.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\ViewComponents\\Writer\\WriterMessageNotification.cs",
-              "RelativeDocumentMoniker": "CoreDemo\\ViewComponents\\Writer\\WriterMessageNotification.cs",
-              "ToolTip": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\ViewComponents\\Writer\\WriterMessageNotification.cs",
-              "RelativeToolTip": "CoreDemo\\ViewComponents\\Writer\\WriterMessageNotification.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\DataAccessLayer\\Concrete\\Context.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Concrete\\Context.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\DataAccessLayer\\Concrete\\Context.cs",
+              "RelativeToolTip": "DataAccessLayer\\Concrete\\Context.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBkAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T16:26:48.32Z",
+              "WhenOpened": "2024-07-26T17:28:28.049Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "WriterHeaderPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\Views\\Writer\\WriterHeaderPartial.cshtml",
-              "RelativeDocumentMoniker": "CoreDemo\\Views\\Writer\\WriterHeaderPartial.cshtml",
-              "ToolTip": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\Views\\Writer\\WriterHeaderPartial.cshtml",
-              "RelativeToolTip": "CoreDemo\\Views\\Writer\\WriterHeaderPartial.cshtml",
-              "ViewState": "AQIAACwAAAAAAAAAAAAqwDkAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-23T16:22:16.782Z",
+              "Title": "BlogRayting.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\EntityLayer\\Concrete\\BlogRayting.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Concrete\\BlogRayting.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\EntityLayer\\Concrete\\BlogRayting.cs",
+              "RelativeToolTip": "EntityLayer\\Concrete\\BlogRayting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T17:26:21.343Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "WriterFooterPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\Views\\Writer\\WriterFooterPartial.cshtml",
-              "RelativeDocumentMoniker": "CoreDemo\\Views\\Writer\\WriterFooterPartial.cshtml",
-              "ToolTip": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\Views\\Writer\\WriterFooterPartial.cshtml",
-              "RelativeToolTip": "CoreDemo\\Views\\Writer\\WriterFooterPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-23T15:41:46.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WriterLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\Views\\Shared\\WriterLayout.cshtml",
-              "RelativeDocumentMoniker": "CoreDemo\\Views\\Shared\\WriterLayout.cshtml",
-              "ToolTip": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\Views\\Shared\\WriterLayout.cshtml",
-              "RelativeToolTip": "CoreDemo\\Views\\Shared\\WriterLayout.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-23T12:10:49.851Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "WriterController.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\Controllers\\WriterController.cs",
-              "RelativeDocumentMoniker": "CoreDemo\\Controllers\\WriterController.cs",
-              "ToolTip": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\Controllers\\WriterController.cs",
-              "RelativeToolTip": "CoreDemo\\Controllers\\WriterController.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAA1wCkAAAAnAAAA",
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\EntityLayer\\Concrete\\Comment.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Concrete\\Comment.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\EntityLayer\\Concrete\\Comment.cs",
+              "RelativeToolTip": "EntityLayer\\Concrete\\Comment.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T11:51:11.783Z",
+              "WhenOpened": "2024-07-26T16:57:44.926Z",
               "EditorCaption": ""
             }
           ]

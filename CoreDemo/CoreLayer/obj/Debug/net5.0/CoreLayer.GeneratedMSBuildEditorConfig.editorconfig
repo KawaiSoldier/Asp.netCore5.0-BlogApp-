@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CoreLayer
-build_property.ProjectDir = c:\Users\ibrah\Desktop\Asp.netCore5.0-BlogApp-\CoreDemo\CoreLayer\
+build_property.ProjectDir = C:\Users\ibrah\Desktop\Asp.netCore5.0-BlogApp-\CoreDemo\CoreLayer\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
