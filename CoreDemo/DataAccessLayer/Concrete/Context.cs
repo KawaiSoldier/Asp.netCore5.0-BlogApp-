@@ -14,7 +14,6 @@ namespace DataAccessLayer.Concrete
         {
             optionsBuilder.UseSqlServer("Server=.;Database=CoreBlogDb;integrated security=true;");
         }
-
         public DbSet<About> Abouts { get; set; }
         public DbSet<Blog> Blogs { get; set; }
         public DbSet<Category> Categories { get; set; }
@@ -22,11 +21,7 @@ namespace DataAccessLayer.Concrete
         public DbSet<Contact> Contacts { get; set; }
         public DbSet<Writer> Writers { get; set; }
         public DbSet<NewsLetter> NewsLetters { get; set; }
-
         public DbSet<BlogRayting> BlogRaytings { get; set; }
-
-
-
 
 
     }
