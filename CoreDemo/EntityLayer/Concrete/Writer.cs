@@ -20,6 +20,10 @@ namespace EntityLayer.Concrete
 
 		public List<Blog> Blogs { get; set; }
 
+        public virtual ICollection<Messaging> MessageSender { get; set; }
+
+        public virtual ICollection<Messaging> MessageReceiver { get; set; }
+
 
 	}
 }
