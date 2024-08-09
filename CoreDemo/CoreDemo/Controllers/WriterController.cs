@@ -1,20 +1,29 @@
 ﻿using BusinessLayer.Concrete;
 using BusinessLayer.ValidationRules;
 using CoreDemo.Models;
+using DataAccessLayer.Concrete;
 using DataAccessLayer.EntityFramework;
 using EntityLayer.Concrete;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.IO;
+using System.Linq;
 
 namespace CoreDemo.Controllers
 {
     public class WriterController : Controller
     {
         WriterManager wm = new WriterManager(new EfWriterRepository());
+
+        [Authorize]
         public IActionResult Index()
         {
+            var usermail = User.Identity.Name;
+            ViewBag.v = usermail;
+            Context c = new Context();
+            var writerName = c.Writers.Where(x => x.WriterMail == usermail).Select(y => y.WriterName).FirstOrDefault();
+            ViewBag.wn = writerName;
             return View();
         }
 
@@ -51,12 +60,15 @@ namespace CoreDemo.Controllers
             return PartialView();
         }
 
-        [AllowAnonymous]
-
+        
+        Context c = new Context();
         [HttpGet]
         public IActionResult WriterEditProfile()
+
         {
-            var WriterValues = wm.TGetById(1);
+            var Usermail = User.Identity.Name;
+            var WriterID = c.Writers.Where(x => x.WriterMail == User.Identity.Name).Select(y => y.WriterID).FirstOrDefault();
+            var WriterValues = wm.TGetById(WriterID);
             return View(WriterValues);
 
 

@@ -18,8 +18,5 @@ namespace EntityLayer.Concrete
         public  List<Blog> Blogs { get; set; }
 
 
-
-
-
     }
 }
