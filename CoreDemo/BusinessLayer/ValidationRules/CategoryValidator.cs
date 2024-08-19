@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace BusinessLayer.ValidationRules
 {
-    internal class CategoryValidator : AbstractValidator<Category>
+    public class CategoryValidator : AbstractValidator<Category>
     {
         public CategoryValidator()
         {

@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\App.csproj|c:\\users\\ibrah\\desktop\\asp.netcore5.0-blogapp-\\coredemo\\coredemo\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\App.csproj|solutionrelative:coredemo\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\App.csproj|c:\\users\\ibrah\\desktop\\asp.netcore5.0-blogapp-\\coredemo\\coredemo\\views\\blog\\blogreadall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\App.csproj|solutionrelative:coredemo\\views\\blog\\blogreadall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22E9874D-5204-4A28-B91B-528615927BD1}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\ibrah\\desktop\\asp.netcore5.0-blogapp-\\coredemo\\businesslayer\\validationrules\\categoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22E9874D-5204-4A28-B91B-528615927BD1}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\validationrules\\categoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\App.csproj|c:\\users\\ibrah\\desktop\\asp.netcore5.0-blogapp-\\coredemo\\coredemo\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\App.csproj|solutionrelative:coredemo\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60576C49-29D5-4749-B898-B1B40AFBB768}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\ibrah\\desktop\\asp.netcore5.0-blogapp-\\coredemo\\dataaccesslayer\\concrete\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60576C49-29D5-4749-B898-B1B40AFBB768}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\concrete\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\App.csproj|c:\\users\\ibrah\\desktop\\asp.netcore5.0-blogapp-\\coredemo\\coredemo\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\App.csproj|solutionrelative:coredemo\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\App.csproj|c:\\users\\ibrah\\desktop\\asp.netcore5.0-blogapp-\\coredemo\\coredemo\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\App.csproj|solutionrelative:coredemo\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\App.csproj|c:\\users\\ibrah\\desktop\\asp.netcore5.0-blogapp-\\coredemo\\coredemo\\areas\\admin\\views\\shared\\components\\statistic1\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\App.csproj|solutionrelative:coredemo\\areas\\admin\\views\\shared\\components\\statistic1\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\App.csproj|c:\\users\\ibrah\\desktop\\asp.netcore5.0-blogapp-\\coredemo\\coredemo\\areas\\admin\\viewcomponents\\statistic\\statistic1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A05E8EFA-7127-4EBF-8F22-CC11E59DA7F3}|CoreDemo\\App.csproj|solutionrelative:coredemo\\areas\\admin\\viewcomponents\\statistic\\statistic1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,59 +30,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Context.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\DataAccessLayer\\Concrete\\Context.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Concrete\\Context.cs",
-              "ToolTip": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\DataAccessLayer\\Concrete\\Context.cs",
-              "RelativeToolTip": "DataAccessLayer\\Concrete\\Context.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAAwCYAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T13:08:40.289Z",
+              "DocumentIndex": 0,
+              "Title": "BlogReadAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\Views\\Blog\\BlogReadAll.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Views\\Blog\\BlogReadAll.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\Views\\Blog\\BlogReadAll.cshtml",
+              "RelativeToolTip": "CoreDemo\\Views\\Blog\\BlogReadAll.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T16:40:49.508Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CategoryValidator.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\BusinessLayer\\ValidationRules\\CategoryValidator.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\ValidationRules\\CategoryValidator.cs",
-              "ToolTip": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\BusinessLayer\\ValidationRules\\CategoryValidator.cs",
-              "RelativeToolTip": "BusinessLayer\\ValidationRules\\CategoryValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T12:58:38.702Z",
-              "EditorCaption": ""
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "CoreDemo\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T16:16:51.296Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "CoreDemo\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "CoreDemo\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAYwDUAAAAbAAAA",
+              "DocumentIndex": 2,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "CoreDemo\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "CoreDemo\\Controllers\\BlogController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBsAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T16:07:12.012Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T16:15:36.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Statistic1.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\Areas\\Admin\\ViewComponents\\Statistic\\Statistic1.cs",
+              "RelativeDocumentMoniker": "CoreDemo\\Areas\\Admin\\ViewComponents\\Statistic\\Statistic1.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\Areas\\Admin\\ViewComponents\\Statistic\\Statistic1.cs",
+              "RelativeToolTip": "CoreDemo\\Areas\\Admin\\ViewComponents\\Statistic\\Statistic1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T16:00:22.505Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "CoreDemo\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "CoreDemo\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\Areas\\Admin\\Views\\Shared\\Components\\Statistic1\\Default.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Areas\\Admin\\Views\\Shared\\Components\\Statistic1\\Default.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\Asp.netCore5.0-BlogApp-\\CoreDemo\\CoreDemo\\Areas\\Admin\\Views\\Shared\\Components\\Statistic1\\Default.cshtml",
+              "RelativeToolTip": "CoreDemo\\Areas\\Admin\\Views\\Shared\\Components\\Statistic1\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-09T11:01:06.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-13T16:00:12.412Z"
             }
           ]
         }

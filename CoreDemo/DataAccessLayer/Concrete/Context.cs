@@ -49,6 +49,8 @@ namespace DataAccessLayer.Concrete
 
         public DbSet<Messaging> Messagings { get; set; }
 
+        public DbSet<Admin> Admins { get; set; }
+
 
     }
 }

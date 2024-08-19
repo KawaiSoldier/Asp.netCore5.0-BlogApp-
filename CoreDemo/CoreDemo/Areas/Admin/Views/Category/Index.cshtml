@@ -9,7 +9,7 @@
 
 <h1>Kategoriler</h1> 
 <br />
-<a class="btn btn-outline-success" href="#">Yeni Kategori Ekle</a>
+<a class="btn btn-outline-success" href="/Admin/Category/AddCategory/">Yeni Kategori Ekle</a>
 <br />
 <br />
 
@@ -41,9 +41,9 @@
                 {
                     <td>Pasif</td>
                 }
-                <td>  
-                    <a href="#" class="btn btn-outline-success">Aktif Yap</a>
-                    <a href="#" class="btn btn-outline-danger">Pasif Yap</a>
+                <td>
+                    <a href="/Admin/Category/ActivateCategory/@item.CategoryID" class="btn btn-outline-success">Aktif Yap</a>
+                    <a href="/Admin/Category/PassiveCategory/@item.CategoryID" class="btn btn-outline-danger">Pasif Yap</a>
                 </td>
                 <td>
                     <a href="#" class="btn btn-warning">Düzenle</a>

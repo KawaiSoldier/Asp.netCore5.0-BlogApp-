@@ -10,9 +10,13 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using X.PagedList;
+using FluentValidation.Results;
+using ValidationResult = FluentValidation.Results.ValidationResult;
+
 
 namespace App.Areas.Admin.Controllers
 {
+    [Area("Admin")]
     public class CategoryController : Controller
     {
 
@@ -21,10 +25,10 @@ namespace App.Areas.Admin.Controllers
 
 
 
-        [Area("Admin")]
+        
         public IActionResult Index(int page = 1)
         {
-            var values = cm.GetList().ToPagedList(page, 3);
+            var values = cm.GetList().ToPagedList(page, 12);
 
             return View(values);
         }
@@ -44,10 +48,9 @@ namespace App.Areas.Admin.Controllers
         [HttpPost]
         public IActionResult AddCategory(Category p)
         {
-
+        
             CategoryValidator cv = new CategoryValidator();
             ValidationResult results = cv.Validate(p);
-
             if (results.IsValid)
             {
                 p.CategoryStatus = true;
@@ -65,6 +68,21 @@ namespace App.Areas.Admin.Controllers
             }
         }
 
+        public IActionResult PassiveCategory(int id)
+        {
+            var categoryValue = cm.TGetById(id);
+            categoryValue.CategoryStatus = false;
+            cm.TUpdate(categoryValue);
+            return RedirectToAction("Index");
+        }
+
+        public IActionResult ActivateCategory(int id)
+        {
+            var categoryValue = cm.TGetById(id);
+            categoryValue.CategoryStatus = true;
+            cm.TUpdate(categoryValue);
+            return RedirectToAction("Index");
+        }
     
     }
 }
